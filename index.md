@@ -7,4 +7,6 @@ Anton Hofmiller ist Soldat der K&K-Armee und in Ungarn stationiert. Er langweilt
 * obrigkeitshörig
 * gleichzeitig dennoch weich, daher das Mitleid
 
+> Vergiftung durch Mitleid
+
 
