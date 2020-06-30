@@ -9,4 +9,4 @@ Anton Hofmiller ist Soldat der K&K-Armee und in Ungarn stationiert. Er langweilt
 
 > Vergiftung durch Mitleid
 
- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Beware_of_pity_cover.png/220px-Beware_of_pity_cover.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Beware_of_pity_cover.png/220px-Beware_of_pity_cover.png"/>
